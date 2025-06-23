@@ -16,8 +16,8 @@ This script demonstrates how to build a voice-enabled Retrieval-Augmented Genera
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/rag_tutorials/voice_rag_openaisdk
+git clone https://github.com/Yavic2024/voice-rag.git
+cd voice-rag
 ```
 
 2. Install the required dependencies:
